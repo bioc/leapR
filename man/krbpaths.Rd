@@ -17,7 +17,7 @@ A list with 4 items
 https://www.gsea-msigdb.org/gsea/msigdb_license_terms.jsp
 }
 \usage{
-krbpaths
+data(krbpaths)
 }
 \description{
 KEGG, Reactome, BioCarta Pathways

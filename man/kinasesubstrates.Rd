@@ -17,7 +17,7 @@ A list with 4 items
 PhosphositePlus
 }
 \usage{
-kinasesubstrates
+data(kinasesubstrates)
 }
 \description{
 Kinase substrate lists

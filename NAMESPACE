@@ -7,11 +7,15 @@ export(get_pathway_information)
 export(leapR)
 export(plot_leapr_bar)
 export(read_gene_sets)
-importFrom(SummarizedExperiment,SummarizedExperiment)
-importFrom(SummarizedExperiment,assay)
-importFrom(SummarizedExperiment,assays)
-importFrom(SummarizedExperiment,rowData)
+importFrom(SummarizedExperiment,
+  SummarizedExperiment,
+  assay,
+  assays,
+  rowData
+)
 importFrom(readr,read_lines)
-importFrom(stats,p.adjust)
-importFrom(stats,sd)
+importFrom(stats,
+  p.adjust,
+  sd
+)
 importFrom(utils,read.table)

@@ -19,6 +19,7 @@ Useful links:
 
 Authors:
 \itemize{
+  \item Sara Gosline \email{sara.gosline@pnnl.gov} (\href{https://orcid.org/0000-0002-6534-4774}{ORCID})
   \item Jason McDermott \email{jason.mcdermott@pnnl.gov}
   \item Jeremy Jacobson \email{jeremy.jacobson@pnnl.gov}
 }

@@ -17,7 +17,7 @@ A list with 4 items
 NCIPID
 }
 \usage{
-ncipid
+data(ncipid)
 }
 \description{
 A list of pathways and the genes that comprise these pathways

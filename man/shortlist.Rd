@@ -10,7 +10,7 @@ a list with 4 items
 Short list of patient samples
 }
 \usage{
-shortlist
+data(shortlist)
 }
 \description{
 A list of pathways and genes that comprise these pathways from msigdb

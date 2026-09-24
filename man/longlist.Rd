@@ -8,7 +8,7 @@
 An object of class \code{character} of length 37.
 }
 \usage{
-longlist
+data(longlist)
 }
 \description{
 Long list of patient samples
